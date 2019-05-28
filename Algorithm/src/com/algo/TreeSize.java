@@ -1,6 +1,6 @@
-package com.algo;
-import com.algo.*;
-import com.algo.util.*;
+package src.com.algo;
+import src.com.algo.*;
+import src.com.algo.util.*;
 public class TreeSize {
 
 	public static void main(String args[])

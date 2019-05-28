@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05e951f2-5366-492c-a38a-08e2ccdaddf4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/algo/AssortedMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algo/AssortedMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algo/BTreePrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algo/BTreePrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algo/CountParen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algo/CountParen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algo/FindNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algo/FindNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algo/LargestDiff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algo/LargestDiff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algo/LinkListRemoveDup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algo/LinkListRemoveDup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algo/LinkedListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algo/LinkedListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algo/MatrixZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algo/MatrixZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algo/MaxProfitTrading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algo/MaxProfitTrading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algo/PartialSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algo/PartialSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algo/ReverseLinkListSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algo/ReverseLinkListSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algo/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algo/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algo/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algo/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algo/TreePrintPaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algo/TreePrintPaths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algo/TreeSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algo/TreeSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algo/util/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algo/util/Utility.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/algo/AssortedMethods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/algo/LongestCommonSubsequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/algo/LongestPathMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/algo/array/CoinChange.java" />
+        <option value="$PROJECT_DIR$/src/com/algo/array/DuplicateByKDistance.java" />
+        <option value="$PROJECT_DIR$/src/com/algo/array/EditDistance.java" />
+        <option value="$PROJECT_DIR$/src/com/algo/array/Islands.java" />
+        <option value="$PROJECT_DIR$/src/com/algo/array/LongestIncrSeq.java" />
+        <option value="$PROJECT_DIR$/src/com/algo/array/MinimumRotated.java" />
+        <option value="$PROJECT_DIR$/src/com/algo/array/MinStepsEnd.java" />
+        <option value="$PROJECT_DIR$/src/com/algo/array/QueueWith2Stacks.java" />
+        <option value="$PROJECT_DIR$/src/com/algo/array/RotateMatrix.java" />
+        <option value="$PROJECT_DIR$/src/com/algo/array/SearchRotatedArray.java" />
+        <option value="$PROJECT_DIR$/src/com/algo/array/SubArrayDistinct.java" />
+        <option value="$PROJECT_DIR$/src/com/algo/AssortedMethods.java" />
+        <option value="$PROJECT_DIR$/src/com/algo/LongestCommonSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/com/algo/LongestPathMatrix.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="292" />
+    <option name="y" value="52" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.algo.array" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05e951f2-5366-492c-a38a-08e2ccdaddf4" name="Default Changelist" comment="" />
+      <created>1558797728032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558797728032</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25538972" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32925585" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/algo/CountParen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algo/array/CoinChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algo/array/MinimumRotated.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algo/array/QueueWith2Stacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algo/array/RotateMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algo/array/SubArrayDistinct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algo/array/SearchRotatedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algo/array/MinStepsEnd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algo/array/LongestIncrSeq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algo/array/Islands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algo/array/EditDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algo/array/DuplicateByKDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm.iml" />
+    <entry file="file://$PROJECT_DIR$/src/com/algo/AssortedMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algo/LongestPathMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algo/LongestCommonSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

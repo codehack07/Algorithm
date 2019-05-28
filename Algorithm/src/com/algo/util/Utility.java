@@ -1,4 +1,4 @@
-package com.algo.util;
+package src.com.algo.util;
 
 public class Utility {
 

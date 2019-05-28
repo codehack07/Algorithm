@@ -1,4 +1,4 @@
-package com.algo;
+package src.com.algo;
 
 import java.util.ArrayList;
 
